@@ -1,0 +1,1 @@
+EXCHANGE <- read.csv("UN EXCH RATE/UNdata_Export_20151018_124439926.csv")
